@@ -1,0 +1,5 @@
+google-chrome-stable_current_amd64.deb
+__pycache__/
+*.pyc
+.pytest_cache/
+chromedriver.log

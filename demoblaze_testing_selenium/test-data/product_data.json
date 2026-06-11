@@ -1,0 +1,10 @@
+
+{
+  "shopping_items": [
+    { "product_name": "Samsung galaxy s6" },
+    { "product_name": "Nokia lumia 1520" },
+    { "product_name": "Nexus 6" },
+    { "product_name": "Samsung galaxy s7" },
+    { "product_name": "Iphone 6 32gb" }
+  ]
+}

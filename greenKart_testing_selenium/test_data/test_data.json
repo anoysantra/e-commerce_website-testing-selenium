@@ -1,0 +1,12 @@
+
+{
+  "vegetable_sets": [
+    [
+      {"name": "Carrot", "quantity": "1 Kg"},
+      {"name": "Brocolli", "quantity": "2 Kg"}
+    ],
+    [
+      {"name": "Cucumber", "quantity": "3 Kg"}
+    ]
+  ]
+}
